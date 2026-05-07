@@ -42,8 +42,9 @@ This repository focuses on **Data Ingestion**, the critical first step in any Re
    pip install -U langchain-community pypdf python-dotenv
 
 3. **Add a Sample PDF:**
+
    Place a sample PDF file (e.g., sample_paper.pdf) in the root directory.
   
-4. **Run the Implementation:**
+5. **Run the Implementation:**
    ```bash
    python pdf_loader.py   
