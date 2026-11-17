@@ -231,5 +231,3 @@ Through this implementation, I explored:
 - [PyPDF Documentation](https://pypdf.readthedocs.io/)
 
 ---
-
-**Part of my Generative AI and LangChain learning journey:** exploring document loaders and the building blocks of Retrieval-Augmented Generation (RAG).
